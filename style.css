@@ -85,6 +85,7 @@ body {
 .user-image {
   margin: 0 0 32px;
   text-align: center;
+  border-radius: 10px;
 }
 
 .intro h3,
@@ -191,4 +192,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.avatar {
+  border-radius: 20px;
 }
